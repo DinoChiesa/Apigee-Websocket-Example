@@ -1,0 +1,13 @@
+<APIProxy revision="1" name="ws-passthrough">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1661290846525</CreatedAt>
+    <LastModifiedAt>1661290846525</LastModifiedAt>
+    <BasePaths>/ws-passthrough</BasePaths>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

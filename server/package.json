@@ -1,0 +1,20 @@
+{
+  "name": "websocket-example-server",
+  "version": "1.0.0",
+  "description": "an example express server that handles WS Upgrade requests",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dino Chiesa <dchiesa@google.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.1",
+    "ws": "^8.8.1"
+  },
+  "engines": {
+    "node": ">= 16.13.1",
+    "npm": ">= 8.3.0"
+  }
+}
